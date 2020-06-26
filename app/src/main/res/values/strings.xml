@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScannerApp</string>
+    <string name="scan_success_header">Barcode OK!</string>
+    <string name="scan_error_header">BARCODE ERROR</string>
+    <string name="scan_again">SCAN AGAIN</string>
+    <string name="scan_unknown_error">Something went wrong</string>
+    <string name="unreadable_barcode_message">Unable to recognise the barcode</string>
+    <string name="camera_permission_denied_message">Camera permission denied, WHY? :(</string>
+</resources>
